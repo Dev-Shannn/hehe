@@ -11,7 +11,7 @@ export const textConfig = {
     subtitle: "Click to see your special letter",
     recipient: "To My KuchuPuchu",
     paragraphs: [
-      "Happy Boyfriend’s Day Bhondu , to the most amazing person in my life! You make every day brighter with your love, care, and little things that mean so much.",
+      "Happy Boyfriend’s Day Divyesh , to the most amazing person in my life! You make every day brighter with your love, care, and little things that mean so much.",
 
       "I’m so lucky to have you by my side, and I just want you to know how deeply you’re loved and appreciated today and always."
     ],
